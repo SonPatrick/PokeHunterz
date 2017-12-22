@@ -8,4 +8,4 @@ location of the pokemon which we can catch.
 
 Instructions:
 - To make a message post to all users using curl:
-	curl --data "message=typeMessageHere" https://localhost:3000/api/messages
+	curl --data "message=typeMessageHere" localhost:3000/api/messages
